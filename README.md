@@ -6,7 +6,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on NextJs, React, Nodejs, Express, MongoDB**
+- 🔭 I’m currently working on NextJs, React, Nodejs, Express, MongoDB
 
 - 🌱 I’m currently learning VueJs and NestJs
 
